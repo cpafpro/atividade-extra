@@ -2,6 +2,8 @@
 
 Resolução das 5 atividades em um único arquivo `produtos.c`.
 
+Compilar: gcc -o produtos produtos.c
+
 ## Atividades
 
 Atividade 1 – Declara um `float preco` e um ponteiro `float *ptr_preco`. O aumento de 10% é aplicado exclusivamente via `*ptr_preco`, alterando o valor original.
